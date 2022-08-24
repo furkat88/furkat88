@@ -6,6 +6,7 @@
 
 1) https://furkat88.github.io/tic-tac-toe/
 2) https://furkat88.github.io/practice/
+3) https://furkat88.github.io/myfirstsite/
 
 <!---
 furkat88/furkat88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
