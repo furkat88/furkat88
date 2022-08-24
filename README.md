@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://furkat88.github.io/Resume/
 
 1) https://furkat88.github.io/tic-tac-toe/
 2) https://furkat88.github.io/practice/
